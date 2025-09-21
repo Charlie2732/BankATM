@@ -27,7 +27,7 @@ Authenticate(string pin) returnerar true eller false
 Program Main
 PIN kontroll vid start max 3 försök
 Menyloop Visa saldo Sätt in Ta ut Avsluta
-Konsol IO och enkel validering av inmatning
+Konsol IO och enkel validering av inmatning.
 
 
 
